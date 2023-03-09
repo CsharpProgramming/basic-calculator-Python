@@ -2,7 +2,6 @@ print("Welcome to my Calculator")
 
 num1 = float(input("Enter the first number: "))
 num2 = float(input("Enter the second number: "))
-
 method = input("Enter operation symbol (+, -, *, /): ")
 
 if method == "+":
